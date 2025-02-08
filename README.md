@@ -1,6 +1,6 @@
 # Preggo Care 🤰
 
-## Overview  
+**Overview**  
 
 Preggo Care is a comprehensive pregnancy companion app designed to support expectant mothers throughout their journey. Our development is deeply rooted in **UX research methodologies**, ensuring an intuitive and user-friendly experience for all mothers-to-be.
 
@@ -17,4 +17,5 @@ Preggo Care is a comprehensive pregnancy companion app designed to support expec
 ✔ Low-Fidelity Wireframes: Defined app structure and primary navigation.  
 ✔ High-Fidelity Prototypes: Designed realistic UI/UX for usability testing.  
 ✔ A/B Testing & Usability Testing: Iterative improvements based on real user feedback.  
+
 
