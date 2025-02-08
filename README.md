@@ -2,9 +2,7 @@
 
 ## Overview  
 
-Preggo Care is a comprehensive pregnancy companion app designed to support expectant mothers throughout their journey. Our app integrates diet charts, exercise videos, a supportive community, calming music, an appointment calendar, and online doctor consultations to ensure a smooth and stress-free pregnancy experience.
-
-Our development is deeply rooted in **UX research methodologies**, ensuring an intuitive and user-friendly experience for all mothers-to-be.
+Preggo Care is a comprehensive pregnancy companion app designed to support expectant mothers throughout their journey. Our development is deeply rooted in **UX research methodologies**, ensuring an intuitive and user-friendly experience for all mothers-to-be.
 
 ## UX Research Methodologies  
 
